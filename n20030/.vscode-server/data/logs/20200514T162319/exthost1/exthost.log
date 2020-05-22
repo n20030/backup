@@ -1,0 +1,24 @@
+[2020-05-14 16:23:21.714] [exthost] [info] extension host started
+[2020-05-14 16:23:21.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-14 16:23:21.759] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/configuration-editing/dist/extension
+[2020-05-14 16:23:21.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-05-14 16:23:21.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/extension-editing/dist/extension
+[2020-05-14 16:23:21.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-05-14 16:23:21.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/json-language-features/client/dist/jsonMain
+[2020-05-14 16:23:21.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-05-14 16:23:21.850] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/npm/dist/main
+[2020-05-14 16:23:21.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-05-14 16:23:21.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/debug-auto-launch/dist/extension
+[2020-05-14 16:23:21.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-05-14 16:23:21.867] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/emmet/dist/extension
+[2020-05-14 16:23:21.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-05-14 16:23:21.897] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/git/dist/main
+[2020-05-14 16:23:21.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-05-14 16:23:21.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/github-authentication/dist/extension.js
+[2020-05-14 16:23:21.960] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-05-14 16:23:21.960] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/merge-conflict/dist/extension
+[2020-05-14 16:23:21.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-05-14 16:23:21.966] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/search-result/dist/extension.js
+[2020-05-14 16:23:21.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-05-14 16:23:21.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/n20030/.vscode-server/bin/a9f8623ec050e5f0b44cc8ce8204a1455884749f/extensions/vscode-account/dist/extension.js
+[2020-05-14 16:23:22.000] [exthost] [info] eager extensions activated

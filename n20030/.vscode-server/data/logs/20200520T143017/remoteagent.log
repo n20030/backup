@@ -1,0 +1,32 @@
+[2020-05-20 14:30:17.594] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-05-20 14:30:17.594] [remoteagent] [info] Extension host agent started.
+[2020-05-20 14:30:17.716] [remoteagent] [info] [::ffff:127.0.0.1][83e88057][ManagementConnection] New connection established.
+[2020-05-20 14:30:17.718] [remoteagent] [info] [::ffff:127.0.0.1][2821ef70][ExtensionHostConnection] New connection established.
+[2020-05-20 14:30:18.173] [remoteagent] [info] [::ffff:127.0.0.1][2821ef70][ExtensionHostConnection] <180> Launched Extension Host Process.
+[2020-05-20 14:31:27.979] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:28.736] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /tmp/013f64c0-bf3c-460c-a70f-3dd57291168d
+[2020-05-20 14:31:28.910] [remoteagent] [info] Extracted extension to /home/n20030/.vscode-server/extensions/.ms-ceintl.vscode-language-pack-ja-1.44.2: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:28.914] [remoteagent] [info] Renamed to /home/n20030/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.44.2
+[2020-05-20 14:31:28.916] [remoteagent] [info] Installation completed. ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:28.922] [remoteagent] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:30.532] [remoteagent] [info] Uninstalling extension: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:30.537] [remoteagent] [info] Successfully uninstalled extension: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:38.099] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:38.761] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /tmp/fefba9d9-b9e1-4d03-a508-75383c416ece
+[2020-05-20 14:31:38.769] [remoteagent] [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:38.772] [remoteagent] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:41.325] [remoteagent] [info] Uninstalling extension: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:41.329] [remoteagent] [info] Successfully uninstalled extension: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:50.092] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:50.757] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /tmp/bff82cfa-0492-48af-b899-b81a101f7f52
+[2020-05-20 14:31:50.764] [remoteagent] [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-ja
+[2020-05-20 14:31:50.767] [remoteagent] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-ja
